@@ -57,4 +57,4 @@ Voici un aperçu des fichiers clés du dépôt :
 - `src/main/java/com/tp/kr/MainTP2Description.java` : Le point d'entrée principal. Il contient à la fois l'interface graphique Swing et l'implémentation complète des modèles et de la logique de raisonnement DL.
 
 ---
-*Ce projet a été réalisé dans le cadre des travaux pratiques de Représentation des Connaissances et Raisonnement (TP2).*
+*Ce projet a été réalisé dans le cadre des travaux pratiques de Représentation des Connaissances et Raisonnement.*
