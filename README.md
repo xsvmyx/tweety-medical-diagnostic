@@ -1,6 +1,6 @@
 # Système de Diagnostic Médical (Logique de Description)
 
-Ce projet est une application Java basée sur la bibliothèque **TweetyProject** (et plus spécifiquement son module de Logiques de Description `org.tweetyproject.logics.dl`). Il a été conçu pour le TP2 de Représentation des Connaissances et Raisonnement (KR), en proposant une interface graphique Swing moderne, destinée préférentiellement à une présentation orale.
+Ce projet est une application Java basée sur la bibliothèque **TweetyProject** (et plus spécifiquement son module de Logiques de Description `org.tweetyproject.logics.dl`). Il a été conçu pour le TP de Représentation des Connaissances et Raisonnement, en proposant une interface graphique Swing moderne.
 
 ## 📋 Description du Projet
 
